@@ -1,1 +1,0 @@
-Projects for Scientific Data Management course at University of Vienna
